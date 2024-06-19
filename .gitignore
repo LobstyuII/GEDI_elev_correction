@@ -1,0 +1,4 @@
+venv/
+GEDI_data/
+GEDI_elev_correction/premium-cipher-424203-d0-c6894a29d00c.json
+GEDI_elev_correction/__pycache__
